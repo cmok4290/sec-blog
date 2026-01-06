@@ -7,7 +7,7 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# sec-blog
+# [sec-blog](https://cmok4290.github.io/sec-blog/)
 
 _My cybersecurity blog_
 
