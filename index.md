@@ -1,3 +1,3 @@
 ---
-title: Welcome to my cybersecurity blog
+title: Cybersecurity Blog
 ---
